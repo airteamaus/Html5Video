@@ -1,0 +1,19 @@
+{
+  "name": "html5video",
+  "version": "1.0.0",
+  "description": "### Description ###",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airteamaus/Html5Video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airteamaus/Html5Video/issues"
+  },
+  "homepage": "https://github.com/airteamaus/Html5Video#readme"
+}
